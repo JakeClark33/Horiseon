@@ -12,7 +12,7 @@ Built With
 HTML
 CSS
 Website
-https://jakeclark33.github.io/Horiseon/
+https://jakeclark33.github.io/ckingdom/
 
 Contribution
 Made with ❤️ by Horiseon
